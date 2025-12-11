@@ -23,7 +23,7 @@ This analysis uses **aggregated and cleaned data** derived from the public Cycli
 
 -   **Original source:** Divvy / Cyclistic trip data under the data license: 👉 [![License: MII](https://img.shields.io/badge/License-MII-blue.svg)](https://divvybikes.com/data-license-agreement)
 
--   **Working data-set in this project:** 👉 [![Summary-data](https://img.shields.io/badge/Summary-data-brown.svg)](mages/summary_data.png)
+-   **Working data-set in this project:** 👉 [![Summary-data](https://img.shields.io/badge/Summary-data-brown.svg)](images/summary_data.png)
 
 -   **Fields used in this analysis:**
 
