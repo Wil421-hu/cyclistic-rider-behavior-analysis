@@ -1,0 +1,15 @@
+﻿index,member_casual,day_of_week,mean_ride_length
+1,casual,Sunday,5061
+2,member,Sunday,973
+3,casual,Monday,4752
+4,member,Monday,822
+5,casual,Tuesday,4562
+6,member,Tuesday,769
+7,casual,Wednesday,4480
+8,member,Wednesday,712
+9,casual,Thursday,8452
+10,member,Thursday,707
+11,casual,Friday,6091
+12,member,Friday,797
+13,casual,Saturday,4951
+14,member,Saturday,974
