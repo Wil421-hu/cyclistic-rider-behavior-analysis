@@ -40,7 +40,7 @@ The file cyclistic_mean_ride_length_full_dataframe.csv is an **aggregated summar
 
 All heavy data cleaning is demonstrated in the link below using Rmarkdown coding language for your review
 
-👉 [![Data-cleaning](https://img.shields.io/badge/Data-cleaning-brown.svg)](cyclistic-rider-behavior-analysis/data_cleaning.R)
+👉 [![Data-cleaning](https://img.shields.io/badge/Data-cleaning-brown.svg)](data_cleaning.R)
 
 ------------------------------------------------------------------------
 
