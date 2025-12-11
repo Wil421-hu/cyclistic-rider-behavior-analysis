@@ -23,7 +23,7 @@ This analysis uses **aggregated and cleaned data** derived from the public Cycli
 
 -   **Original source:** Divvy / Cyclistic trip data under the data license: 👉 [![License: MII](https://img.shields.io/badge/License-MII-blue.svg)](https://divvybikes.com/data-license-agreement)
 
--   **Working data-set in this project:** 👉 [data-set](summary_data.png) [![dat-set](https://img.shields.io/badge/Data-set-brown.svg)](summary_data.png)
+-   **Working data-set in this project:** 👉 [![Summary-data](https://img.shields.io/badge/Summary-data-brown.svg)](https://wil421-hu.github.io/cyclistic-rider-behavior-analysis/summary_data.png)
 
 -   **Fields used in this analysis:**
 
@@ -40,7 +40,7 @@ The file cyclistic_mean_ride_length_full_dataframe.csv is an **aggregated summar
 
 All heavy data cleaning is demonstrated in the link below using Rmarkdown coding language for your review
 
-👉 [data_cleaning](data_cleaning.R) [![Data-cleaning](https://img.shields.io/badge/Data-cleaning-brown.svg)](data_cleaning.R)
+👉 [![Data-cleaning](https://img.shields.io/badge/Data-cleaning-brown.svg)](https://wil421-hu.github.io/cyclistic-rider-behavior-analysis/data_cleaning.R)
 
 ------------------------------------------------------------------------
 
