@@ -139,7 +139,3 @@ Position membership as a **better leisure experience**, not just a commuter prod
 **Rationale:** Since casual riders clearly use bikes for enjoyment and exploration, framing membership as a **lifestyle upgrade** (not just a cheaper commute) aligns with their primary use case.
 
 ------------------------------------------------------------------------
-
-### 7. How to Reproduce (R)
-
-Below is a **template R workflow** that recreates the logic behind this project using the full raw Cyclistic data. **👉** [work-flow](data_cleaning.R)
